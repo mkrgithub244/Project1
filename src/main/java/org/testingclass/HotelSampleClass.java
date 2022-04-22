@@ -5,6 +5,7 @@ public class HotelSampleClass {
 		System.out.println();
 		System.out.println("Tested by Aravind");
 		System.out.println("Tested by Mani");
+		System.out.println("Tested 2 by Aravind");
 	}
 
 }
